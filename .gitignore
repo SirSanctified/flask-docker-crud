@@ -1,0 +1,6 @@
+docker_secret
+venv/
+__pycache__/
+*.pyc
+.env
+pgdata
